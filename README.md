@@ -37,9 +37,9 @@ most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckybsmith&layout=compact)](https://github.com/luckybsmith/github-readme-stats)
 
 
-경력
+### 경력
 22.07.01 ~ 22.12.30 볼트마이크로/iOS개발팀
-- Show here
+[Show here](https://ssssol.tistory.com/70)
 
 
 
