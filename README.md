@@ -30,6 +30,9 @@ main
 <img src="https://img.shields.io/badge/C-white?style=flat&logo=C&logoColor=00599C"/>
 <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=B7178C"/>
 <img src="https://img.shields.io/badge/Github-white?style=flat&logo=Github&logoColor=181717"/>
+<img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=1572B6"/>
+
 
 
 Using API
