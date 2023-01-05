@@ -9,11 +9,6 @@
 
 [Click here](https://everglow.tistory.com/)
 
-
-### Contact
-<img src="https://img.shields.io/badge/Naver-white?style=flat&logo=Naver&logoColor=03C75A"/>
-
-
 ### Main skill
 <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/>
 
@@ -43,6 +38,10 @@ rwSwift, snapkit, kingfisher, swiftsoup, firebase, google, facebook, apple auth
 ### 경력
 22.07.01 ~ 22.12.30 볼트마이크로/iOS개발팀
 [Click here](https://github.com/luckybsmith/Portfolio/blob/main/README.md)
+
+
+### Contact
+<img src="https://img.shields.io/badge/Naver-white?style=flat&logo=Naver&logoColor=03C75A"/>
 
 
 
