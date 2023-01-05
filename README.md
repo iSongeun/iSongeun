@@ -25,6 +25,10 @@
 <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=1572B6"/>
 
+### Communication Skill
+<img src="https://img.shields.io/badge/Jira-white?style=flat&logo=Jira&logoColor=0052CC"/>
+<img src="https://img.shields.io/badge/Confluence-white?style=flat&logo=Confluence&logoColor=172B4D"/>
+
 ### Using API
 <img src="https://img.shields.io/badge/Naver-white?style=flat&logo=Naver&logoColor=03C75A"/>
 <img src="https://img.shields.io/badge/Kakao-white?style=flat&logo=Kakao&logoColor=FFCD00"/>
