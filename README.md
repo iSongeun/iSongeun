@@ -1,8 +1,7 @@
 <div align="center">
 
-### 안녕하세요 이송은입니다.
-
-### * iOS Developer *
+# 안녕하세요 이송은입니다.
+# * iOS Developer *
 
 ### Article
 <img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/>
