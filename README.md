@@ -39,6 +39,6 @@ Using API
 
 most Used Languages
 
-//최신 티스토리 정보 불어오기
 
-
+경력
+22.07.01 ~ 22.12.30 볼트마이크로/iOS개발팀
