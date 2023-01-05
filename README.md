@@ -7,7 +7,7 @@
 ### Article
 <img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/>
 
-[Show here](https://everglow.tistory.com/)
+[Click here](https://everglow.tistory.com/)
 
 
 ### Contact
@@ -38,7 +38,7 @@ rwSwift, snapkit, kingfisher, swiftsoup, firebase, google, facebook, apple auth
 
 ### 경력
 22.07.01 ~ 22.12.30 볼트마이크로/iOS개발팀
-[Show here](https://www.google.com)
+[Click here](https://www.google.com)
 
 
 
