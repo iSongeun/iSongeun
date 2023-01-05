@@ -38,6 +38,8 @@ rwSwift, snapkit, kingfisher, swiftsoup, firebase, google, facebook, apple auth
 22.07.01 ~ 22.12.30 볼트마이크로/iOS개발팀
 [Click here](https://github.com/luckybsmith/Portfolio/blob/main/README.md)
 
+22.08.01 ~ 22.10.31 ( ~ 보완 ) 졸업작품전시회
+[Click here](http:www.google.com)
 
 ### Contact
 <img src="https://img.shields.io/badge/Naver-white?style=flat&logo=Naver&logoColor=03C75A"/>
