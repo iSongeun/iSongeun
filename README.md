@@ -53,19 +53,8 @@ most Used Languages
 22.07.01 ~ 22.12.30 볼트마이크로/iOS개발팀
 - 로그인 기능 구현 (파이어베이스)
 
-project (깃허브 링크로 만들기)
-- 여행 어플
-- 근처 편의점 찾기 (카카오api)
-- 책 리뷰 (네이버 api)
 
 using package
-- rwSwift
-- snapkit
-- kingfisher
-- swiftsoup
-- firebase
-- google
-- facebook
-- appleauth
+rwSwift, snapkit, kingfisher, swiftsoup, firebase, google, facebook, apple auth
 
 </div>
