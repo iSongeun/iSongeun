@@ -38,6 +38,8 @@ Using API
 <img src="https://img.shields.io/badge/Firebase-white?style=flat&logo=Firebase&logoColor=FFCA28"/>
 
 most Used Languages
+[![luckybsmith's github stats](https://github-readme-stats.vercel.app/api?username=luckybsmith)](https://github.com/luckybsmith/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckybsmith&layout=compact)](https://github.com/luckybsmith/github-readme-stats)
 
 
 경력
