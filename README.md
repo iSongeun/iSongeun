@@ -39,7 +39,7 @@ most Used Languages
 
 ### 경력
 22.07.01 ~ 22.12.30 볼트마이크로/iOS개발팀
-[Show here](https://ssssol.tistory.com/70)
+[Show here](https://www.google.com)
 
 
 
