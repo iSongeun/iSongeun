@@ -2,18 +2,21 @@
 
 ### 안녕하세요 이송은입니다.
 
-* iOS Developer *
+### * iOS Developer *
 
-link : <img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/>
+### Link
+<img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/>
+[Show here](https://everglow.tistory.com/)
 
 
-contact : <img src="https://img.shields.io/badge/Naver-white?style=flat&logo=Naver&logoColor=03C75A"/>
+### Contact
+<img src="https://img.shields.io/badge/Naver-white?style=flat&logo=Naver&logoColor=03C75A"/>
 
 
-main
+### Main skill
 <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/>
 
-💻 Tech Skill
+### 💻 Tech Skill
 <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/>
 <img src="https://img.shields.io/badge/C-white?style=flat&logo=C&logoColor=00599C"/>
 <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=B7178C"/>
@@ -21,21 +24,16 @@ main
 <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=1572B6"/>
 
-
-
-Using API
+### Using API
 <img src="https://img.shields.io/badge/Naver-white?style=flat&logo=Naver&logoColor=03C75A"/>
 <img src="https://img.shields.io/badge/Kakao-white?style=flat&logo=Kakao&logoColor=FFCD00"/>
 <img src="https://img.shields.io/badge/Firebase-white?style=flat&logo=Firebase&logoColor=FFCA28"/>
 
-using package
+### Using package
 rwSwift, snapkit, kingfisher, swiftsoup, firebase, google, facebook, apple auth
-
-most Used Languages
 
 [![luckybsmith's github stats](https://github-readme-stats.vercel.app/api?username=luckybsmith)](https://github.com/luckybsmith/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckybsmith&layout=compact)](https://github.com/luckybsmith/github-readme-stats)
-
 
 ### 경력
 22.07.01 ~ 22.12.30 볼트마이크로/iOS개발팀
