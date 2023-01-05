@@ -26,7 +26,6 @@ main
 💻 Tech Skill
 <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/>
 <img src="https://img.shields.io/badge/C-white?style=flat&logo=C&logoColor=00599C"/>
-<!-- <img src="https://img.shields.io/badge/C-white?style=flat&logo=C++&logoColor=00599C"/> -->
 <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=B7178C"/>
 <img src="https://img.shields.io/badge/Github-white?style=flat&logo=Github&logoColor=181717"/>
 
