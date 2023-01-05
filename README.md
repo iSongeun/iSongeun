@@ -1,4 +1,4 @@
-### Hi world 👋
+### Hi world.
 
 <!--
 **luckybsmith/luckybsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 iOS개발자
 
-link : Tistory
+link : <img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/>
+
 
 contact
 
