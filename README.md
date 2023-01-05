@@ -20,7 +20,7 @@ iOS개발자
 link : <img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/>
 
 
-contact
+contact : 
 
 main
 <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/>
