@@ -43,6 +43,9 @@ Using API
 <img src="https://img.shields.io/badge/Kakao-white?style=flat&logo=Kakao&logoColor=FFCD00"/>
 <img src="https://img.shields.io/badge/Firebase-white?style=flat&logo=Firebase&logoColor=FFCA28"/>
 
+using package
+rwSwift, snapkit, kingfisher, swiftsoup, firebase, google, facebook, apple auth
+
 most Used Languages
 
 [![luckybsmith's github stats](https://github-readme-stats.vercel.app/api?username=luckybsmith)](https://github.com/luckybsmith/github-readme-stats)
@@ -51,10 +54,8 @@ most Used Languages
 
 경력
 22.07.01 ~ 22.12.30 볼트마이크로/iOS개발팀
-- 로그인 기능 구현 (파이어베이스)
+- Show here
 
 
-using package
-rwSwift, snapkit, kingfisher, swiftsoup, firebase, google, facebook, apple auth
 
 </div>
