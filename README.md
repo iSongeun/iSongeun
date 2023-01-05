@@ -23,6 +23,7 @@ link : <img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tist
 contact
 
 main
+<img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/>
 
 💻 Tech Skill
 <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/>
