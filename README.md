@@ -6,7 +6,7 @@
 ### Article
 <img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/>
 
-[Click here](https://everglow.tistory.com/)
+//[Click here](https://everglow.tistory.com/)
 
 ### Main skill
 <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/>
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Firebase-white?style=flat&logo=Firebase&logoColor=FFCA28"/>
 
 ### Using package
-rwSwift, snapkit, kingfisher, swiftsoup, firebase, google, facebook, apple auth
+rxSwift, snapkit, kingfisher, swiftsoup, firebase, google, facebook, apple auth
 
 [![luckybsmith's github stats](https://github-readme-stats.vercel.app/api?username=luckybsmith)](https://github.com/luckybsmith/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckybsmith&layout=compact)](https://github.com/luckybsmith/github-readme-stats)
@@ -39,7 +39,7 @@ rwSwift, snapkit, kingfisher, swiftsoup, firebase, google, facebook, apple auth
 [Click here](https://github.com/luckybsmith/Portfolio/blob/main/README.md)
 
 22.08.01 ~ 22.10.31 ( ~ 보완 ) 졸업작품전시회
-[Click here](http:www.google.com)
+//[Click here](http:www.google.com)
 
 ### Contact
 <img src="https://img.shields.io/badge/Naver-white?style=flat&logo=Naver&logoColor=03C75A"/>
