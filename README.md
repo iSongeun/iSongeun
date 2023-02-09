@@ -6,7 +6,7 @@
 ### Article
 <img src="https://img.shields.io/badge/Tistory-white?style=flat&logo=Tistory&logoColor=000000"/>
 
-//[Click here](https://everglow.tistory.com/)
+<!--//[Click here](https://everglow.tistory.com/)-->
 
 ### Main skill
 <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/>
@@ -39,7 +39,7 @@ rxSwift, snapkit, kingfisher, swiftsoup, firebase, google, facebook, apple auth
 [Click here](https://github.com/luckybsmith/Portfolio/blob/main/README.md)
 
 22.08.01 ~ 22.10.31 ( ~ 보완 ) 졸업작품전시회
-//[Click here](http:www.google.com)
+<!--//[Click here](http:www.google.com)-->
 
 ### Contact
 <img src="https://img.shields.io/badge/Naver-white?style=flat&logo=Naver&logoColor=03C75A"/>
