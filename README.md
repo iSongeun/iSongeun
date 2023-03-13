@@ -31,12 +31,12 @@
 ### Using package
 rxSwift, snapkit, kingfisher, swiftsoup, firebase, google, facebook, apple auth
 
-[![luckybsmith's github stats](https://github-readme-stats.vercel.app/api?username=luckybsmith)](https://github.com/luckybsmith/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckybsmith&layout=compact)](https://github.com/luckybsmith/github-readme-stats)
+[![luckybsmith's github stats](https://github-readme-stats.vercel.app/api?username=iSongeun)](https://github.com/iSongeun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iSongeun&layout=compact)](https://github.com/iSongeun/github-readme-stats)
 
 ### 경력
 22.07.01 ~ 22.12.30 볼트마이크로/iOS개발팀
-[Click here](https://github.com/luckybsmith/Portfolio/blob/main/README.md)
+[Click here](https://github.com/iSongeun/Portfolio/blob/main/README.md)
 
 22.08.01 ~ 22.10.31 ( ~ 보완 ) 졸업작품전시회
 <!--//[Click here](http:www.google.com)-->
